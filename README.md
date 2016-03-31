@@ -27,7 +27,7 @@ create file example.mywebsite.com.conf
 ```
 ```
 a2ensite example.mywebsite.com
-apachectl restart
+service apache2 reload
 ```
 
 ## Connect ssh
