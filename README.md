@@ -34,3 +34,8 @@ service apache2 reload
 ```
 ssh root@ipserver
 ```
+
+## WP CLI install language
+```
+wp core language install fr_FR --activate
+```
