@@ -26,7 +26,7 @@ create file example.mywebsite.com.conf
 </VirtualHost>
 ```
 ```
-a2ensite example.mywebsite.com
+a2ensite example.mywebsite.conf
 service apache2 reload
 ```
 
